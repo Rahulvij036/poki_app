@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+/*Image from https://wallpapercave.com/pokemon-hd-wallpaper */
+
+input {
+  box-sizing: border-box;
+  font-size: 2rem;
+  display: block;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.MuiGrid-container{
+  padding: 1% 1.5%;
+}
